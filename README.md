@@ -16,6 +16,6 @@ Full implementation of SQL select syntax parsing engine on sample database forma
 
 
 Authors:
-Veeresh Beeram   <veereshbeeram@gmail.com>
-Karthik V Bellur <karthikbellur@gmail.com>
-Praveen Jain     <praveenjain064@gmail.com>
+* Veeresh Beeram   <veereshbeeram@gmail.com>
+* Karthik V Bellur <karthikbellur@gmail.com>
+* Praveen Jain     <praveenjain064@gmail.com>
